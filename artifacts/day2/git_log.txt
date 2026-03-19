@@ -1,0 +1,16 @@
+* 586d8cc chore: generate normalized data artifacts (Day 2)
+* 577d4ab test: add validation tests for JSON, YAML, XML and CSV outputs
+* a9cd52c feat: add data formats generator and summary schema
+* 1f6dc78 chore: update requirements.txt with PyYAML for Day 2
+*   69f77a7 Resolve README conflict (Day2)
+|\  
+| * 6610f95 Update README in branch B
+* | 9ec14a6 Update README in branch A
+|/  
+* 1f70d25 docs: finalize Day 1 report with screenshots and logs
+* 2ac7725 chore: add generated artifacts (env.txt, response, summary)
+* 711ce6c test: add automated unit tests for API and artifacts
+* d478758 feat: implement Hello API script with SHA256 logic
+* d4a6bb9 feat: add JSON schema for summary validation
+* 028420b docs: setup project structure and gitignore
+* 02be1e8 add files
