@@ -1,0 +1,15 @@
+{
+  "api_key_sha256": "2a6d6467e863ee480159f4c5031135a65f7f1ae9911ccbc0015243dd345307a0",
+  "request": {
+    "author": "Akhmetov",
+    "id": 5001,
+    "isbn": "978-014b0b5022",
+    "title": "My DevNet Book 4b0b5022"
+  },
+  "response": {
+    "author": "Akhmetov",
+    "id": 5001,
+    "title": "My DevNet Book 4b0b5022"
+  },
+  "status_code": 200
+}

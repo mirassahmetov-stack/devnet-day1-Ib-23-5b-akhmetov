@@ -1,0 +1,42 @@
+{
+  "count": 6,
+  "items": [
+    {
+      "author": "Akhmetov",
+      "id": 5001,
+      "isbn": "978-014b0b5022",
+      "title": "My DevNet Book 4b0b5022"
+    },
+    {
+      "author": "Akhmetov",
+      "id": 6200,
+      "isbn": "978-1-251-91701-9",
+      "title": "Diverse human-resource matrix [4b0b5022]"
+    },
+    {
+      "author": "Akhmetov",
+      "id": 6201,
+      "isbn": "978-0-690-14744-5",
+      "title": "Managed bi-directional flexibility [4b0b5022]"
+    },
+    {
+      "author": "Akhmetov",
+      "id": 6202,
+      "isbn": "978-0-14-442195-4",
+      "title": "Team-oriented clear-thinking parallelism [4b0b5022]"
+    },
+    {
+      "author": "Akhmetov",
+      "id": 6203,
+      "isbn": "978-0-251-81657-5",
+      "title": "Balanced executive encoding [4b0b5022]"
+    },
+    {
+      "author": "Akhmetov",
+      "id": 6204,
+      "isbn": "978-0-219-66506-1",
+      "title": "User-centric full-range strategy [4b0b5022]"
+    }
+  ],
+  "status_code": 200
+}
