@@ -1,4 +1,3 @@
-Started by user admin
 [Pipeline] Stage: Build
 [Pipeline] Stage: Test
 [Pipeline] Stage: Deploy

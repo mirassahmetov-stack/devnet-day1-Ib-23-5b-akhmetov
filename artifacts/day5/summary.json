@@ -1,0 +1,21 @@
+{
+    "schema_version": "5.0",
+    "student": {
+        "name": "Miras",
+        "group": "IS31",
+        "token_hash8": "8ea73cd9"
+    },
+    "yang": {
+        "ok": true,
+        "evidence_sha": ""
+    },
+    "webex": {
+        "ok": false,
+        "room_title_contains_hash8": false
+    },
+    "pt": {
+        "ok": true,
+        "empty_ticket_seen": true
+    },
+    "validation_passed": false
+}
