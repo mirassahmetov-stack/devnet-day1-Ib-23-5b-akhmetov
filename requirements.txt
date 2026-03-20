@@ -3,3 +3,4 @@ pytest
 jsonschema
 python-dotenv
 PyYAML
+faker
