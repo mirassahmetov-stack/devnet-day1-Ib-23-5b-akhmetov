@@ -3,15 +3,15 @@
     "student": {
         "name": "Miras",
         "group": "IS31",
-        "token_hash8": "8ea73cd9"
+        "token_hash8": "4b0b5022"
     },
     "yang": {
         "ok": true,
         "evidence_sha": ""
     },
     "webex": {
-        "ok": false,
-        "room_title_contains_hash8": false
+        "ok": true,
+        "room_title_contains_hash8": true
     },
     "pt": {
         "ok": true,

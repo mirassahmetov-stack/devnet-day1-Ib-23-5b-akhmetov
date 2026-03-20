@@ -1,4 +1,4 @@
-[Pipeline] Stage: Build
-[Pipeline] Stage: Test
-[Pipeline] Stage: Deploy
+Stage: Build
+Stage: Test
+Stage: Deploy
 Finished: SUCCESS
